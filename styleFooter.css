@@ -1,0 +1,21 @@
+.bg-footer {
+    background-color: #1b1b1b;
+}
+
+.bg-footer a,
+.bg-footer p,
+.bg-footer span,
+.bg-footer div,
+.bg-footer h1,
+.bg-footer h2,
+.bg-footer h3 {
+    color: #fbfbfb;
+}
+
+.bg-footer .flex-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 375px;
+}
